@@ -96,5 +96,5 @@ void loop() {
   }
 
 
-  delay(20000); // Wait 20 seconds to update the channel again
+  delay(20000); // Wait for 20 seconds to update the channel again
 }
